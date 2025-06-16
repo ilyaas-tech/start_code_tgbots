@@ -20,7 +20,6 @@ typing_extensions==4.12.2
 yarl==1.10.0
 
 #в терминале:
-#1) python3 -m venv .venv
+#1) python -m venv .venv
 #2) .venv\Scripts\activate
-#3) в терминале cd tg => нажать Tab => нажать Enter
 #4) pip install -r requirements.txt
